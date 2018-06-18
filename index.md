@@ -2,4 +2,4 @@
 layout: minimal
 ---
 
-![AnVIL](anvil_logo.png)
+![AnVIL](anvil_logo.jpg)
