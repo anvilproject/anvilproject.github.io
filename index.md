@@ -2,4 +2,6 @@
 layout: minimal
 ---
 
-![AnVIL](anvil_logo.jpg)
+<div style="height: 100%; text-align: center">
+  <img src="anvil_logo.jpg" style="vertical-align: middle">
+</div>
