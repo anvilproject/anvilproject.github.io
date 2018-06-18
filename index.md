@@ -2,4 +2,4 @@
 layout: minimal
 ---
 
-Test.
+![AnVIL](anvil_logo.png)
